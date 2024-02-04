@@ -1,7 +1,7 @@
 ---
 title:  Yapay Zeka ile Rüya Tabiri
 description: Yapay zeka ile rüya tabiri, geceleri zihnimizin derinliklerinden gelen mesajları anlamamızı sağlayan devrim niteliğinde bir teknolojidir. Rüyalarınızı nasıl daha iyi anlayabileceğinizi keşfedin.
-
+slug: yapay-zeka-ile-ruya-tabiri
 ---
 
 
